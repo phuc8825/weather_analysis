@@ -1,0 +1,26 @@
+city,country_x,temperature,humidity,wind_speed,weather,rank,country_y,population
+Hanoi,VN,29.92,75,2.24,Rain,81,Vietnam,5068414
+Ho Chi Minh City,VN,28.93,86,2.68,Clouds,20,Vietnam,14052713
+Bangkok,TH,29.95,76,5.99,Clouds,14,Thailand,18180280
+Singapore,SG,31.07,84,5.07,Clouds,84,Singapore,4963998
+Jakarta,ID,28.83,85,0.45,Clouds,1,Indonesia,41913860
+Kuala Lumpur,MY,28.45,36,1.02,Clouds,41,Malaysia,8443731
+Tokyo,JP,19.12,72,0.45,Clouds,3,Japan,33412512
+Seoul,KR,20.13,86,2.96,Clouds,10,South Korea,22490482
+Beijing,CN,18.39,67,3.09,Clear,16,China,17013303
+Shanghai,CN,26.09,71,1.25,Clouds,5,China,29558908
+New Delhi,IN,38.47,18,2.36,Clouds,4,India,30222405
+Mumbai,IN,30.58,77,6.18,Clear,12,India,20203056
+London,GB,17.94,71,4.47,Clouds,33,United Kingdom,10416420
+Paris,FR,20.28,52,2.68,Rain,36,France,9381921
+Berlin,DE,23.24,56,7.15,Clouds,132,Germany,3560908
+Madrid,ES,26.76,28,5.63,Clouds,72,Spain,5583601
+New York,US,26.57,35,1.79,Clear,22,United States,13920148
+Los Angeles,US,17.42,77,1.65,Clear,27,United States,12740420
+Toronto,CA,23.26,44,1.79,Clouds,74,Canada,5494431
+Mexico City,MX,15.53,77,1.79,Clouds,15,Mexico,17734212
+São Paulo,BR,19.69,84,4.02,Clear,13,Brazil,18949790
+Cairo,EG,35.23,17,3.83,Clear,7,Egypt,25566102
+Dubai,AE,31.39,72,2.77,Clear,76,United Arab Emirates,5283789
+Sydney,AU,11.54,64,0.89,Clouds,107,Australia,4150917
+Melbourne,US,26.73,61,3.58,Clouds,127,Australia,3639893

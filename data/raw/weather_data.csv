@@ -1,0 +1,26 @@
+city,country,temperature,humidity,wind_speed,weather
+Hanoi,VN,29.92,75,2.24,Rain
+Ho Chi Minh City,VN,28.93,86,2.68,Clouds
+Bangkok,TH,29.95,76,5.99,Clouds
+Singapore,SG,31.07,84,5.07,Clouds
+Jakarta,ID,28.83,85,0.45,Clouds
+Kuala Lumpur,MY,28.45,36,1.02,Clouds
+Tokyo,JP,19.12,72,0.45,Clouds
+Seoul,KR,20.13,86,2.96,Clouds
+Beijing,CN,18.39,67,3.09,Clear
+Shanghai,CN,26.09,71,1.25,Clouds
+New Delhi,IN,38.47,18,2.36,Clouds
+Mumbai,IN,30.58,77,6.18,Clear
+London,GB,17.94,71,4.47,Clouds
+Paris,FR,20.28,52,2.68,Rain
+Berlin,DE,23.24,56,7.15,Clouds
+Madrid,ES,26.76,28,5.63,Clouds
+New York,US,26.57,35,1.79,Clear
+Los Angeles,US,17.42,77,1.65,Clear
+Toronto,CA,23.26,44,1.79,Clouds
+Mexico City,MX,15.53,77,1.79,Clouds
+São Paulo,BR,19.69,84,4.02,Clear
+Cairo,EG,35.23,17,3.83,Clear
+Dubai,AE,31.39,72,2.77,Clear
+Sydney,AU,11.54,64,0.89,Clouds
+Melbourne,US,26.73,61,3.58,Clouds
