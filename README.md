@@ -1,6 +1,6 @@
 # Global weather & population analysis
 ## Overview
-This project analyzes weather conditions accross maajor cities worldwide by combining real-time weather data collected from OpenWeather API with population data from web scraping
+This project analyzes weather conditions accross major cities worldwide by combining real-time weather data collected from OpenWeather API with population data from web scraping
 
 ## Project objectives
 - Collect weather information from multiple global cities
